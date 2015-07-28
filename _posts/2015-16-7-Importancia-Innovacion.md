@@ -19,8 +19,8 @@ La innovación tecnología dentro de las empresas mexicanas ya no es una alterna
 
 Referencias
 
-[1] Periódico La Jornada, . "México es "uno de los países más atrasados en innovación tecnológica"." La Jornada[Ciudad de México] 12 06 2012, n. pag. Web. 24 Aug. 2013. http://www.jornada.unam.mx/2012/06/12/ciencias/a02n1cie
+[1] Periódico La Jornada, . "México es "uno de los países más atrasados en innovación tecnológica"." La Jornada[Ciudad de México] 12 06 2012, n. pag. Web. 24 Aug. 2013. <http://www.jornada.unam.mx/2012/06/12/ciencias/a02n1cie>
 
 [2] Price, Robert M.. "Technology and Strategic Advantage." . California Management Review, n.d. Web. 24 Aug 2013.
 
-[3] Notimex, . "Falta de procesos tecnológicos aumenta costos de entidades financieras." Yahoo! noticias [México] 29 08 2012, n. pag. Web. 24 Aug. 2013. http://mx.noticias.yahoo.com/falta-procesos-tecnológicos-aumenta-costos-entidades-financieras-205300457--finance.html
+[3] Notimex, . "Falta de procesos tecnológicos aumenta costos de entidades financieras." Yahoo! noticias [México] 29 08 2012, n. pag. Web. 24 Aug. 2013. <http://mx.noticias.yahoo.com/falta-procesos-tecnológicos-aumenta-costos-entidades-financieras-205300457--finance.html>
